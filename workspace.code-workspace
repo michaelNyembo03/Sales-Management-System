@@ -1,0 +1,76 @@
+{
+	"folders": [
+		{
+			"path": "..\\Capstone project LMS_Computer programming"
+		},
+		{
+			"path": "D:\\Php Developement\\PHPProjectFiles\\phpproject-complete"
+		},
+		{
+			"path": "..\\lms Admin Panel"
+		},
+		{
+			"path": "..\\Library-Management-System-WEB-APP-main"
+		},
+		{
+			"path": "..\\LIBRARY_MANAGEMENT_SYSTEM_IN_PHP_WITH_SOURCE_CODE\\Library Management PHP"
+		},
+		{
+			"path": "..\\Mon Temoignage Pour Jesus Website\\MtPourJesus"
+		},
+		{
+			"path": "..\\AlexaWebsite"
+		},
+		{
+			"path": "..\\Lms AdminSpace"
+		},
+		{
+			"path": "..\\Capstone project LMS_Computer programming_"
+		},
+		{
+			"path": "..\\AI Internet programming Assigment 1"
+		},
+		{
+			"path": "..\\Self Driving Cars"
+		},
+		{
+			"path": "..\\Sales_Management_System"
+		},
+		{
+			"path": "..\\purchase_order"
+		},
+		{
+			"path": "..\\Software Engineering"
+		},
+		{
+			"path": "..\\InvoiceMg-PHP"
+		},
+		{
+			"path": "..\\Php-shopping-cart-master"
+		},
+		{
+			"path": "..\\S.E Term project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "S.E Term project",
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "S_Engineering_p",
+				"database": "sales_m_s",
+				"username": "root",
+				"password": ""
+			}
+		]
+	}
+}
